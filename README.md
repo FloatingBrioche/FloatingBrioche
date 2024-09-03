@@ -18,6 +18,6 @@ Bike geek and vinyl collector<br>
 
 ---
 
-<img alt="My GitHub Stats" src="https://github-readme-stats-six-rust-27.vercel.app/api?username=FloatingBrioche&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" align="left"/>
-<img alt="My Languages" src="https://github-readme-stats-six-rust-27.vercel.app/api/top-langs/?username=FloatingBrioche&count_private=true&hide_progress=true&theme=tokyonight" align="right"/>
+<img alt="My GitHub Stats" src="https://github-readme-stats-six-rust-27.vercel.app/api?username=FloatingBrioche&show_icons=true&theme=github_dark&count_private=true&hide_rank=true" align="left"/>
+<img alt="My Languages" src="https://github-readme-stats-six-rust-27.vercel.app/api/top-langs/?username=FloatingBrioche&count_private=true&hide_progress=true&theme=github_dark" align="right"/>
 
