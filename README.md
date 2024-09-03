@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hola! 👋
+
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FloatingBrioche&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true"/>
+
+<img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloatingBrioche&hide_progress=true&theme=tokyonight"/>
+
+<img alt="Codewars Stats" src="https://www.codewars.com/users/FloatingBrioche/badges/micro"/>
+
 
 <!--
 **FloatingBrioche/FloatingBrioche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
